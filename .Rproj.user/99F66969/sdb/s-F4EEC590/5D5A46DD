@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#testq",
+    "created" : 1457401456869.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "179747924",
+    "id" : "5D5A46DD",
+    "lastKnownWriteTime" : 1457401479,
+    "last_content_update" : 1457401479497,
+    "path" : "~/BigData/BigData1/Class0307.R",
+    "project_path" : "Class0307.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
